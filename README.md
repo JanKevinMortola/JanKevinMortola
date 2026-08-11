@@ -4,7 +4,7 @@
 
 I design practical automation and CRM systems that connect business operations, sales, customer data, AI, and the tools teams already use. My focus is reducing repetitive work, improving operational visibility, and turning fragmented workflows into dependable systems.
 
-[Portfolio](https://jankevinmortola.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/jan-kevin-mortola-051373399/) · [Automation Labs](labs/README.md)
+[Portfolio](https://jankevinmortola.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/jankevinmortola1/) · [Automation Labs](labs/README.md)
 
 ## Automation & CRM Stack
 
