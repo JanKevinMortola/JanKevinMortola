@@ -28,6 +28,12 @@ Public technical architecture notes and reusable patterns:
 - [Make & Zapier Integration Patterns](labs/make-zapier-integration-patterns.md) — platform selection, migration patterns, branching, and cross-platform orchestration
 - [Self-Hosted AI Operations Assistant](labs/self-hosted-ai-operations-assistant.md) — local LLMs, RAG, permission-aware retrieval, tool approval, and audit controls
 
+## Technical Articles
+
+- [n8n vs Make vs Zapier: How I Choose an Automation Platform](articles/n8n-vs-make-vs-zapier.md)
+- [Why Automation Fails When Operations Are Messy](articles/why-automation-fails-with-messy-operations.md)
+- [Building Reliable AI + CRM Automation](articles/building-reliable-ai-crm-automation.md)
+
 ## What I build
 
 **CRM & lead automation**  
